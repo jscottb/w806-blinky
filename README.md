@@ -8,3 +8,4 @@ Blink example for the W806 MCU
 # This example assume your wm-sdk-w806 folder is in your home directory:
 dumbuser@dumbox:~/wm-sdk-w806/make; make flash
 
+https://github.com/jscottb/w806-blinky/blob/main/w806.png
