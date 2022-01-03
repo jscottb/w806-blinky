@@ -3,7 +3,7 @@ Simple blink-like example for the W806 MCU along with the chip pinout and a text
 <br>
 # To compile the blinky code and download to your W806
 - Copy main.c, wm_it.c, wm_hal_msp.c & Makefile to your wm-sdk-w806/app/src/ folder.
-- Run make from the wm-sdk-w806 root directory to build then make flash to load the W806 with the code.
+- Run <i>make</i> from the wm-sdk-w806 root directory to build and then <i>make flash</i> to load the W806 with the code.
 <br>
 <b>This example assumes the wm-sdk-w806 folder is in your home directory:</b>
 <br>
