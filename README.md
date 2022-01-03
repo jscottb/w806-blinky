@@ -9,7 +9,7 @@ Simple blink-like example for the W806 MCU along with the chip pinout and a text
 <br>
 <i>dumbuser@dumbox:~/wm-sdk-w806$ <b>make; make flash</b></i>
 <br><br><br>
-
+You can use any of the other examples given in the wm-sdk-w806/demo folder this way. Just follow the same procedure as outlined above.<br><br>
 <b>See: w806pins.txt for full pin assinments. </b><br><br>
 
 <b>W806 Pinouts:</b><br>
