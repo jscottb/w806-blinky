@@ -1,4 +1,4 @@
-# w806-blinky
+# W806-blinky
 Simple blink-like example for the W806 MCU along with the chip pinout and a text file with pin assinments.<br>
 <br>
 # To compile the blinky code and download to your W806
