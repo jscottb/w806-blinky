@@ -7,6 +7,6 @@ Blink example for the W806 MCU
 <br>
 # This example assumes the wm-sdk-w806 folder is in your home directory:
 dumbuser@dumbox:~/wm-sdk-w806/make; make flash
-<br>
-<img src="https://github.com/jscottb/w806-blinky/blob/main/w806.png" alt="W806 pinout" height="350" width="350">
+<br><br><br>
+<img src="https://github.com/jscottb/w806-blinky/blob/main/w806.png" alt="W806 pinout" height="450" width="450">
 
