@@ -9,5 +9,7 @@ Blink example for the W806 MCU
 <br>
 <i>dumbuser@dumbox:~/wm-sdk-w806$ <b>make; make flash</b></i>
 <br><br><br>
-<img src="https://github.com/jscottb/w806-blinky/blob/main/w806.png" alt="W806 pinout" height="450" width="450">
+
+<b>See for pin assinments. </b><br><br>
+<img src="https://github.com/jscottb/w806-blinky/blob/main/w806.png" alt="W806 pinout" height="500" width="500">
 
