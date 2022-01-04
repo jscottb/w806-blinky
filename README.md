@@ -15,5 +15,5 @@ You can use any of the other examples given in the wm-sdk-w806/demo folder this 
 <b>W806 Pinout:</b><br>
 <img src="https://github.com/jscottb/w806-blinky/blob/main/w806.png" alt="W806 pinout" height="500" width="500">
 
-<br><br><b>W806 Internals:</b><br>
-<img src="https://github.com/jscottb/w806-blinky/blob/main/w806internals.png" alt="W806 Internals" height="300" width="300">
+<br><b>W806 Internals:</b><br>
+<img src="https://github.com/jscottb/w806-blinky/blob/main/w806internals.png" alt="W806 Internals" height="500" width="500">
