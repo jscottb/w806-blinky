@@ -20,4 +20,4 @@ You can use any of the other examples given in the wm-sdk-w806/demo folder this 
 <br><b>W806 Internals:</b><br>
 <img src="https://github.com/jscottb/w806-blinky/blob/main/w806internals.png" alt="W806 Internals" height="500" width="500">
 
-<br>The above images were taken from this data sheet: <a href="https://github.com/jscottb/w806-blinky/blob/main/w806pins.txt">w806pins.txt</a>
+<br>The above images were taken from this <a href="https://github.com/jscottb/w806-blinky/blob/main/W806%20MCU%E8%8A%AF%E7%89%87%E8%A7%84%E6%A0%BC%E4%B9%A6_V2.0.pdft"datasheet</a>
