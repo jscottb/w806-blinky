@@ -19,3 +19,5 @@ You can use any of the other examples given in the wm-sdk-w806/demo folder this 
 
 <br><b>W806 Internals:</b><br>
 <img src="https://github.com/jscottb/w806-blinky/blob/main/w806internals.png" alt="W806 Internals" height="500" width="500">
+
+<br>The above images were taken from this data sheet: <a href="https://github.com/jscottb/w806-blinky/blob/main/w806pins.txt">w806pins.txt</a>
