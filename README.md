@@ -10,7 +10,7 @@ Simple blink-like example for the W806 MCU along with the chip pinout and a text
 <br>
 <i>dumbuser@dumbox:~/wm-sdk-w806$ <b>make; make flash</b></i>
 <br><br>
-I have added code to test the IO speed of the W806 with. The first is a HAL version that toggles GPIO_PIN_0 on and off as fast as possable. The other is a bare-metal one that does the same, but using the PORT registers directly.  You can copy those files in plase of the main.c file to try them.<br><br>
+I have added code to test the IO speed of the W806 with. The first is a HAL version that toggles GPIO_PIN_0 on and off as fast as possable. The other is a bare-metal one that does the same, but using the PORT registers directly.  You can copy those files in place of the main.c file to try them.<br><br>
 
 You can use any of the other examples given in the wm-sdk-w806/demo folder this way. Just follow the same procedure as outlined above.<br><br>
 <b>See: <a href="https://github.com/jscottb/w806-blinky/blob/main/w806pins.txt">w806pins.txt</a> for full pin assignments. </b><br><br>
